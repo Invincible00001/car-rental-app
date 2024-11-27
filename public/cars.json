@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Toyota Corolla", "price": "₹ 2000/day", "image": "/images/corolla.jpg", "seats": 5 },
+  { "id": 2, "name": "Honda Civic", "price": "₹ 3000/day", "image": "/images/civic.jpg", "seats": 5 },
+  { "id": 3, "name": "Tesla Model 3", "price": "₹ 5000/day", "image": "/images/tesla.jpg", "seats": 4 }
+]
